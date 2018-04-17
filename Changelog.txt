@@ -23,5 +23,5 @@
 <li> Fixed Crash On Some Devices</li>
 <li> Many More Fixes</li>
 
-","url":"https://github.com/Osjakvd/gbwhaplus/raw/master/GBWAPlusv6.25.apk"
+","url":"https://github.com/Osjakvd/gbwhaplus/raw/master/GBWAPlusUpdate.apk"
 }
