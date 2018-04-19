@@ -1,5 +1,5 @@
 {"version_code":451203,"content":"
-<h1 style="color:#b1a2e3;">6.30 Clear</h1>
+<h1>6.30 Clear</h1>
 
 <p><b>New Changes:</b></p>
 <li> Clear Version. Without Ads, credits to Osjakvd.</li>
