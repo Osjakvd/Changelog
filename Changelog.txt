@@ -1,29 +1,24 @@
-{"version_code":451207,"content":"
-<p><b>6.40.1 Clear</b></p>
+{"version_code":451209,"content":"
+<p><b>6.65 Clear</b></p>
 
 <p><b>New Changes:</b></p>
 <li> Clear Version. Without Ads, credits to Osjakvd.</li>
 <li> Exclusive: New Updater inside the app, now you see the update notification only when it is finished. (Forget the annoying update notification).</li>
 <p><b>GBChangelog:</b></p>
-<li> New Base Updated to 2.18.122</li>
-<li> Exclusively Improved Option for Specific/Except Contacts/Groups in Auto-Reply</li>
-<li> Improved No Need to Restart When use Privacy except for Hide Last Seen</li>
-<li> Enabled Locked Voice Recordings (Press and Swipe up/No need to hold for Recording) </li>
-<li> Enabled Group Settings - Send Messages (Once Enabled only Admin can Send Messages in Group)</li>
-<li> Added Stock Fab (Mod 2.7.9)</li>
-<li> Added Option to Hide New Chat Icon from Header (Mod 2.1.11)</li>
-<li> Added Option for Disable Revoked Message Notification(Mod 6.20)</li>
-<li> Added Option to Disable Auto-Reply when Hide Read</li>
-<li> Added Option to Enable Video Icon in Conversation Header (Mod 1.1.16)</li>
-<li> Added Custom Media Auto-Download in Custom Chats</li>
-<li> Added Now You can Search by Name in Theme Server</li>
-<li> Updated Italian & Brazilian language</li>
-<li> Fixed Contacts Name Color when Add Participants</li>
-<li> Fixed Bubble Color</li>
-<li> Fixed Privacy for Blue Microphone</li>
-<li> Fixed GIF Background Color</li>
-<li> Fixed Attach Icon not Showing in Broadcast chat</li>
-<li> Fixed Action Bar Color, Icon Background color, Count color in Hidden Chats & Archived Chats</li>
+<li> New Base Updated to 2.18.327</li>
+<li> Enabled Stickers</li>
+<li> Exclusive No More Forward Tag to Opposite Person even if you forward</li>
+<li> Exclusive @mention Icon on Main Screen to easily Know where you are tagged</li>
+<li> Exclusively Improved Option to Block Calls with/without Showing Ringing to Opp Person.</li>
+<li> Exclusively Added New Option to Select Part Message (Mod 1.2.2)</li>
+<li> Enabled Swipe To Reply</li>
+<li> Enabled Group Calls</li>
+<li> Increased Forward Limit for Indian Users</li>
+<li> Added Option to Set Duration for Revoked Message Notification (Mod 6.8)</li>
+<li> Added Themed Stickers Tab</li>
+<li> Fixed Hidden Chats Showing in Calls Tab</li>
+<li> Fixed Square Pics</li>
+<li> Fixed Search in Themes</li>
 <li> Many Other Fixes</li>
 
 
@@ -31,17 +26,20 @@
 <li> Clear Version. Sin publicidad y en español, créditos a Osjakvd.</li>
 <li> Exclusivo: Nuevo Actualizador dentro de la aplicación, ahora solo verás la notificación de actualización cuando la versión transparente este terminada. (Olvídate del molesto letrero)</li>
 <p><b>GBChangelog:</b></p>
-<li> Base actualizada a 2.18.122</li>
-<li> Exclusivo mejorada la opcion de autorespuesta/Excepto Contactos/Grupos.</li> 
-<li> Mejorado. No es necesario reiniciar para opciones de privacidad excepto ocultar última vez.</li>
-<li> Habiltado bloquear grabar noa de voz (presiona y desliza hacia arriba/no es necesario mantener presionado para grabar)</li>
-<li> Habilitado Configuraciones en Grupos - Enviar Mensajes (Una vez habilitado unicamente el administrador puede enviar mensajes)</li>
-<li> Añadido Stock Fab (Mod 2.7.9)</li>
-<li> Añadida Opción para ocultar icono de notificación de Nuevo Chat de cabecera. (Mod 2.1.11)</li> 
-<li> Añadida opción para ocultar notificación de mensaje eliminado.(Mod 6.20)</li>
-<li> Añadida opción de Deshabilitar autorespuesta cuando estas ocultando tick azul.(Mod 1.2.66)</li>
-<li> Añadida opción para habilitar icono de video en cabecera de conversación. (Mod 1.1.16)</li>
-<li> Muchos más correcciones.</li>
+<li> Base Acualizada a 2.18.327</li>
+<li> Stickers Activos</li>
+<li> Exclusivo ya no se mostrará leyenda ""reenviado" al reenviar un menaje.</li>
+<li> Exclusivo Icono para saber que te han mencionado en chat.</li>
+<li> Opción exclusiva mejorada para bloquear llamadas con / sin mostrar el timbre a otra persona.</li>
+<li> Nueva opción agregada exclusivamente para seleccionar solo una parte del mensaje (Mod 1.2.2)</li>
+<li> Habilitado deslizar para responder.</li>
+<li> Habilitado llamadas de grupo.</li>
+<li> Se agregó la opción para establecer la duración de la notificación de mensajes eliminados. (Mod 6.8)</li>
+<li> Añadidas Pestañas de Stickers.</li>
+<li> Se han corregido los chats ocultos que se muestran en la pestaña de llamadas.</li>
+<li> Corregido Fotos cuadradas.</li>
+<li> Corregido Búsqueda en temas</li>
+<li> Muchos otros arreglos</li>
 
-","url":"https://github.com/Osjakvd/gbwhaplus/raw/master/GBWAPlusUpdate.apk"
+","url":"http://www.mediafire.com/file/b6ran64pvtva4oz/WhatsaMods-v1.0.9.125.apk"
 }
