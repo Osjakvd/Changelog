@@ -1,10 +1,9 @@
 {"version_code":451209,"content":"
 <p>6.65 Clear</p>
 
-<p><b>New Changes:</b></p>
+<p> New Changes:</p>
 <li> Clear Version. Without Ads, credits to Osjakvd.</li>
-<li> Exclusive: New Updater inside the app, now you see the update notification only when it is finished. (Forget the annoying update notification).</li>
-<p><b>GBChangelog:</b></p>
+<p> GBChangelog:</p>
 <li> New Base Updated to 2.18.327</li>
 <li> Enabled Stickers</li>
 <li> Exclusive No More Forward Tag to Opposite Person even if you forward</li>
@@ -21,10 +20,9 @@
 <li> Fixed Search in Themes</li>
 <li> Many Other Fixes</li>
 
-<p><b>Nuevos Cambios</b></p>
+<p> Nuevos Cambios</p>
 <li> Clear Version. Sin publicidad y en español, créditos a Osjakvd.</li>
-<li> Exclusivo: Nuevo Actualizador dentro de la aplicación, ahora solo verás la notificación de actualización cuando la versión transparente este terminada. (Olvídate del molesto letrero)</li>
-<p><b>GBChangelog:</b></p>
+<p> GBChangelog:</p>
 <li> Base Acualizada a 2.18.327</li>
 <li> Stickers Activos</li>
 <li> Exclusivo ya no se mostrará leyenda ""reenviado" al reenviar un menaje.</li>
