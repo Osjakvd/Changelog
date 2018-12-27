@@ -1,5 +1,5 @@
 {"version_code":451209,"content":"
-<p>تحديث 6.65</p>
+<p>6.65 Clear</p>
 
 <p><b>New Changes:</b></p>
 <li> Clear Version. Without Ads, credits to Osjakvd.</li>
