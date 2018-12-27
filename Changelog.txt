@@ -1,5 +1,6 @@
 {"version_code":451209,"content":"
-<p>6.65 Clear</p>
+<p>تحديث 6.65</p>
+
 <p><b>New Changes:</b></p>
 <li> Clear Version. Without Ads, credits to Osjakvd.</li>
 <li> Exclusive: New Updater inside the app, now you see the update notification only when it is finished. (Forget the annoying update notification).</li>
@@ -19,25 +20,6 @@
 <li> Fixed Square Pics</li>
 <li> Fixed Search in Themes</li>
 <li> Many Other Fixes</li>
-
-<p><b>Nuevos Cambios</b></p>
-<li> Clear Version. Sin publicidad y en español, créditos a Osjakvd.</li>
-<li> Exclusivo: Nuevo Actualizador dentro de la aplicación, ahora solo verás la notificación de actualización cuando la versión transparente este terminada. (Olvídate del molesto letrero)</li>
-<p><b>GBChangelog:</b></p>
-<li> Base Acualizada a 2.18.327</li>
-<li> Stickers Activos</li>
-<li> Exclusivo ya no se mostrará leyenda ""reenviado" al reenviar un menaje.</li>
-<li> Exclusivo Icono para saber que te han mencionado en chat.</li>
-<li> Opción exclusiva mejorada para bloquear llamadas con / sin mostrar el timbre a otra persona.</li>
-<li> Nueva opción agregada exclusivamente para seleccionar solo una parte del mensaje (Mod 1.2.2)</li>
-<li> Habilitado deslizar para responder.</li>
-<li> Habilitado llamadas de grupo.</li>
-<li> Se agregó la opción para establecer la duración de la notificación de mensajes eliminados. (Mod 6.8)</li>
-<li> Añadidas Pestañas de Stickers.</li>
-<li> Se han corregido los chats ocultos que se muestran en la pestaña de llamadas.</li>
-<li> Corregido Fotos cuadradas.</li>
-<li> Corregido Búsqueda en temas</li>
-<li> Muchos otros arreglos</li>
 
 ","url":"http://www.mediafire.com/file/b6ran64pvtva4oz/WhatsaMods-v1.0.9.125.apk"
 }
